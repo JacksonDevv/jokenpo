@@ -77,3 +77,14 @@ p{
 .your-score span{
     color: rgb(38, 255, 0);
 }
+
+
+.result{
+    font-size: 45px;
+    margin-bottom: 20px;
+    min-height: 30px; /* Reserva espaço fixo */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
